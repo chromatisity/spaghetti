@@ -1,0 +1,23 @@
+﻿ body {
+    background:#6b92b9;
+}
+canvas {
+    display:block;
+}
+#Wrapper {
+    position:fixed;
+    left:50%;
+    top:50%;
+    margin-top: -50px;
+    margin-left: -100px;
+    display:inline-block;
+}
+#error {
+	position:fixed;
+	left:50%;
+	top:50%;
+	margin-top: 25px;
+	margin-left: -25px;
+	display: inline-block;
+}
+            
